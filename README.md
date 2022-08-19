@@ -4,6 +4,7 @@ Hi there 👋
 Rosa Elena Peña (21-0415) 
 Francisco Adolfo (20-0866)
 
+Nombre del archivo: BolsadeValoresYahooFinance.ipynb
 
 
 
